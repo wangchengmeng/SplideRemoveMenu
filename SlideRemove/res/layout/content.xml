@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="70dp"
+    android:background="#0000ff"
+    android:gravity="center"
+    android:id="@+id/tv_content"
+    android:textSize="25sp"
+    android:text="我是内容" />
